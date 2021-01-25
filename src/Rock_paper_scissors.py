@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 while True:
     playerOne = input("Please enter 0 for rock 1 for paper 2 for scissors:\n")
     playerTwo = input("Please enter 0 for rock 1 for paper 2 for scissors:\n")
